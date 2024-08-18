@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title> EXEMPLO! </title>
+  <a href="http://youtube.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="380" height="250" />
+  </a>
+</head>
+<body>
+             <h1> ↑ Clique na imagem acima ↑ </h1>
+                 <p> Clicando na imagem acima voce será redirecionado para o YouTube. </p>
+</body>
+</html>
